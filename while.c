@@ -7,7 +7,7 @@ int main()
 	{
 		printf("第%d次\n", i);
 		i=i+1;
-		scanf_s("%d", &a);
+		scanf("%d", &a);
 	}
 	printf("完成");
 	return 0;
